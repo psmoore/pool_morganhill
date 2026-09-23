@@ -19,7 +19,7 @@ Built with `python3 build.py` (the chrome lives there; edit it, not the HTML) an
 | `aqua-fitness.html` | [`vEXgsnQB…`](https://www.poolrelay.com/v/vEXgsnQBRAFvNxupDVVR7T) | Shallow Tone, Deep H2O Dynamics, CRC Aqua Fitness |
 | `crc.html` | [`CfjPFKFb…`](https://www.poolrelay.com/v/CfjPFKFbY9mY804eLoftpT) | the CRC indoor pool, including the play area |
 | `swim-lessons.html` | [`ZA813GWy…`](https://www.poolrelay.com/v/ZA813GWyAMBTXFnXtI76zF) | Swim Lessons |
-| `lap-swim.html` | [`c5dJvh9W…`](https://www.poolrelay.com/v/c5dJvh9WnUdSPDCdjh15a2) | Lap Swim at both centers |
+| `lap-swim.html` | [`c5dJvh9W…`](https://www.poolrelay.com/v/c5dJvh9WnUdSPDCdjh15a2) | Lap Swim at both centers, **Pools** menu on All |
 | `splash.html` | [`4nOtuEgJ…`](https://www.poolrelay.com/v/4nOtuEgJabUEssEWCxcGbe) | the Competition Pool, where Splash trains |
 
 ## Sources

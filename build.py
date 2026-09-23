@@ -353,7 +353,7 @@ LAP = f"""<section class="wrap hero">
   CRC members swim free. Lanes are shared, and swimmers must be swimming laps.</p>
 
 {cal("lap", "Morgan Hill Lap Swim — both pools",
-     caption="Every lap swim block at both centers, with its pool and lane count.")}
+     caption="Use the <strong>Pools</strong> menu to show one pool, or leave it on <strong>All</strong>.")}
 </section>
 
 <div class="trail">
