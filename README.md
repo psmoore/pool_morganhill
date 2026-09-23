@@ -36,6 +36,7 @@ aquatics, Aquatics Center, CRC Aquatics, Lap Swim, Swim Lessons and Splash Swim 
 - **CRC lanes.** Lessons take lanes 2–3 while one lap lane (lane 1) stays open, per the schedule's
   "(1 Lap Lane Open)".
 - **Aqua Zumba** is noted on the Saturday 8am Shallow Tone class, not entered separately.
+- **Splash Youth Swim** (added 2026-09-23 from the team page): Mon–Thu 4:15–7:55pm on Competition Pool lanes 6–17.
 - **October 24:** Competition Pool lap swim narrowed to 5–7am for the swim meet; nothing else changed.
 
 ## Open questions (also on the hub and Aquatics Center pages)
@@ -45,4 +46,4 @@ aquatics, Aquatics Center, CRC Aquatics, Lap Swim, Swim Lessons and Splash Swim 
 | **Conflict** | Deep H2O Dynamics (weekdays 11:00–11:55) sits inside the 5am–1:30pm lap swim block; which lanes does it take? Left flagged on the calendar. |
 | **Conflict** | The aquatics page says the Competition Pool has up to 18 lanes; the schedule tops out at 17. Built with 17. |
 | **Gap** | October 24 make-up Sunday has no date; does water polo or the Instructional Pool run during the meet? |
-| **Gap** | Splash Youth Swim, Monday–Thursday "between 4:15 and 7:55pm" in the Competition Pool, is on neither schedule. Lap swim has 5 of 17 lanes then, so presumably 12 are Splash's. |
+| **Ours** | Splash Youth Swim, Monday–Thursday "between 4:15 and 7:55pm" in the Competition Pool, is on neither pool schedule. Entered as one block on lanes 6–17, the 12 lap swim leaves. Each group's times and the Intro to Water Polo time (Mon/Wed) are not published. |

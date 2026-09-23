@@ -144,10 +144,11 @@ QUESTIONS = """<section class="wrap">
       Instructional Pool run that day.</div>
     </li>
     <li>
-      <div class="q"><span class="tag gap">Gap</span>Splash Youth Swim &mdash; which lanes, and when?</div>
-      <div class="a">Splash practices Monday&ndash;Thursday &ldquo;between 4:15 and 7:55pm&rdquo; in the
-      Competition Pool. That's exactly when public lap swim drops to 5 lanes, which leaves 12 &mdash;
-      but neither schedule says so. Group times and lane counts would put the team on the calendar.</div>
+      <div class="q"><span class="tag ours">Ours</span>Splash Youth Swim &mdash; which lanes, and each group's times?</div>
+      <div class="a">The team page gives Monday&ndash;Thursday &ldquo;between 4:15 and 7:55pm&rdquo; in the
+      Competition Pool, which is exactly when public lap swim drops to 5 lanes. We put Splash on the other
+      12 (lanes 6&ndash;17) as one block. Each group's times, and the time of Intro to Water Polo on
+      Mondays and Wednesdays, would show the real practices.</div>
     </li>
     <li>
       <div class="q"><span class="tag clash">Conflict</span>17 lanes or 18?</div>
@@ -381,18 +382,18 @@ SPLASH = f"""<section class="wrap hero">
   Mondays and Wednesdays. $100 a month with an active CRC membership.</p>
 
 {cal("comp", "Aquatics Center Competition Pool — this week",
-     caption="The Competition Pool, where every Splash practice is held. Scroll to 4pm for the evening: lap swim on 5 lanes Monday&ndash;Thursday, 11 on Friday.")}
+     caption="The Competition Pool, where every Splash practice is held. Scroll to 4pm for the evening: Splash on 12 lanes beside lap swim on 5, Monday&ndash;Thursday.")}
 </section>
 
 <div class="trail">
   <div class="wrap">
     <h2>The other twelve lanes</h2>
     <p>From 4 to 8pm, Monday to Thursday, the pool schedule gives public lap swim <b>5 lanes</b> of 17.
-    On Friday, when Splash doesn't practice, lap swim gets 11. The team is the difference, but no
-    schedule says so.</p>
-    <p class="answer">Add each Splash group's times and lanes and the evening pool reads the way it
-    actually runs: <b>lap swimmers see where they'll be, parents see their swimmer's lanes, and
-    the city sees the whole pool accounted for</b>.</p>
+    On Friday, when Splash doesn't practice, lap swim gets 11. The team is the difference, and the pool
+    schedule never mentions it.</p>
+    <p class="answer">On the calendar the evening pool adds up: <b>Splash on 12 lanes, lap swim on 5,
+    all 17 accounted for</b>. With each group's own times, parents would see their swimmer's slot and
+    lap swimmers would see exactly which lanes are theirs.</p>
   </div>
 </div>
 
