@@ -21,6 +21,7 @@ EMBED = {
     "fit":     "vEXgsnQBRAFvNxupDVVR7T",   # Shallow Tone, Deep H2O Dynamics, CRC Aqua Fitness
     "lessons": "ZA813GWyAMBTXFnXtI76zF",   # Swim Lessons
     "comp":    "4nOtuEgJabUEssEWCxcGbe",   # the Competition Pool, lane by lane
+    "splash":  "QoMkhkqWYDH9OxeQgqTjDk",   # Splash Youth Swim practices only, 3:30-8:30pm
 }
 
 NAV = [
@@ -381,8 +382,8 @@ SPLASH = f"""<section class="wrap hero">
   practices a week, Monday&ndash;Thursday between 4:15 and 7:55pm, plus Intro to Water Polo on
   Mondays and Wednesdays. $100 a month with an active CRC membership.</p>
 
-{cal("comp", "Aquatics Center Competition Pool — this week",
-     caption="The Competition Pool, where every Splash practice is held. Scroll to 4pm for the evening: Splash on 12 lanes beside lap swim on 5, Monday&ndash;Thursday.")}
+{cal("splash", "Morgan Hill Splash Youth Swim — practice week",
+     caption="Splash practices Monday&ndash;Thursday, 4:15&ndash;7:55pm, on 12 lanes of the Competition Pool.")}
 </section>
 
 <div class="trail">
